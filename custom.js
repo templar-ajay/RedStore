@@ -14,7 +14,7 @@ class MyHeader extends HTMLElement
             <li><a href="index.html">Home</a></li>
             <li><a href="html/products.html">Products</a></li>
             <li><a href="html/portfolio.html">Dev Portfolio</a></li>
-            <li><a href="mailto:ajay.kumar@talentelgia.in">Contact Us</a></li>
+            <li><a href="mailto:ajay.kumar@talentelgia.in">E-Mail</a></li>
             <li><a href="html/account.html">Account</a></li>
         </ul>
     </nav>
