@@ -100,7 +100,7 @@ p{
    min-width: 200px;
    margin-bottom: 50px;
    transition: transform 0.5s;
-   
+   font-size: 14px;
 }
 .col-4 img{
     width: 100%;
@@ -126,9 +126,6 @@ p{
 h4{
     color: #555;
     font-weight: normal;
-}
-.col-4{
-    font-size: 14px;
 }
 .rating .fa{
     color: #ff523b;
